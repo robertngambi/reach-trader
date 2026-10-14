@@ -1,0 +1,8 @@
+{
+  "name": "Reach AutoTrade AI - Smart Automated \u0026 Manual Trading Bot",
+  "description": "Responsive automated trading bot with Manual, Bulk, and Bot trading modes, POC \u0026 indicator overlays, cloud Stay Trade execution, and multi-currency mobile money deposits.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
